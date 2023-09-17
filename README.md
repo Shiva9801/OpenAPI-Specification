@@ -2,7 +2,7 @@
 
 ![Build Status](https://github.com/OAI/OpenAPI-Specification/workflows/validate-markdown/badge.svg) [![Issue triagers](https://www.codetriage.com/oai/openapi-specification/badges/users.svg)](https://www.codetriage.com/oai/openapi-specification)
 
-![](https://avatars3.githubusercontent.com/u/16343502?v=3&s=200)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/19nbT6g/imageedit-1-7968339372.png" alt="imageedit-1-7968339372" border="0"></a>
 
 
 The OpenAPI Specification is a community-driven open specification within the [OpenAPI Initiative](https://www.openapis.org/), a Linux Foundation Collaborative Project.
